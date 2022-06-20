@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "543195730909",
+    "project_id": "eradko-adfd9",
+    "storage_bucket": "eradko-adfd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543195730909:android:b14a796eae1602cc359c34",
+        "android_client_info": {
+          "package_name": "com.murabba.eradco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543195730909-cvmekljrflm1727at6q8am0dnd8gvs88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.murabba.eradco",
+            "certificate_hash": "40a9fde41192031bd0f79c6e4a352e94fc82f8d4"
+          }
+        },
+        {
+          "client_id": "543195730909-rur7umaoat04ghvabb7gap2kltmenbba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.murabba.eradco",
+            "certificate_hash": "003ace09b8b7536b57ef72d33558544d0f30bf61"
+          }
+        },
+        {
+          "client_id": "543195730909-hgb6mhkos91st74ibkld4nia5cfflba7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsWUwyuT2G6UK7bbt1lYAYJvQA8_C_J5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543195730909-hgb6mhkos91st74ibkld4nia5cfflba7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543195730909-093b3ngpi5ve28pkjb0buivl2k1uiabd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.murabba.eradco"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

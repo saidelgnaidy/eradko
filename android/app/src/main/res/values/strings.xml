@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eradco</string>
+    <string name="facebook_app_id">584492742522131</string>
+    <string name="fb_login_protocol_scheme">fb584492742522131</string>
+    <string name="facebook_client_token">094fe7287322a62161ea20736421d440</string>
+</resources>

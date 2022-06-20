@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>543195730909-093b3ngpi5ve28pkjb0buivl2k1uiabd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.543195730909-093b3ngpi5ve28pkjb0buivl2k1uiabd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>543195730909-cvmekljrflm1727at6q8am0dnd8gvs88.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvPQRHmxSdPUMsVdomcOcXQlvxSdyvA5E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>543195730909</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.murabba.eradco</string>
+	<key>PROJECT_ID</key>
+	<string>eradko-adfd9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eradko-adfd9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:543195730909:ios:8325e99f0f6fdc59359c34</string>
+</dict>
+</plist>
